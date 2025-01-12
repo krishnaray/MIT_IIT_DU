@@ -1,0 +1,14 @@
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\bin\Debug\net8.0\UDPSlidingWindow.exe
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\bin\Debug\net8.0\UDPSlidingWindow.deps.json
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\bin\Debug\net8.0\UDPSlidingWindow.runtimeconfig.json
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\bin\Debug\net8.0\UDPSlidingWindow.dll
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\bin\Debug\net8.0\UDPSlidingWindow.pdb
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.AssemblyInfoInputs.cache
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.AssemblyInfo.cs
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.csproj.CoreCompileInputs.cache
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.dll
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\refint\UDPSlidingWindow.dll
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.pdb
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\UDPSlidingWindow.genruntimeconfig.cache
+F:\Tutorials\MIT\Sem1\MIT303\Assignment5\UDPSlidingWindow\UDPSlidingWindow\obj\Debug\net8.0\ref\UDPSlidingWindow.dll

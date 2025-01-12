@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Tutorials\\MIT\\Sem1\\MIT303\\Assignment5\\UDPSlidingWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638EF07A-2EA7-4E86-AEF0-D55962343C3F}|UDPSlidingWindow\\UDPSlidingWindow.csproj|f:\\tutorials\\mit\\sem1\\mit303\\assignment5\\udpslidingwindow\\udpslidingwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638EF07A-2EA7-4E86-AEF0-D55962343C3F}|UDPSlidingWindow\\UDPSlidingWindow.csproj|solutionrelative:udpslidingwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638EF07A-2EA7-4E86-AEF0-D55962343C3F}|UDPSlidingWindow\\UDPSlidingWindow.csproj|f:\\tutorials\\mit\\sem1\\mit303\\assignment5\\udpslidingwindow\\udpslidingwindow\\miths\\com\\udpslidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638EF07A-2EA7-4E86-AEF0-D55962343C3F}|UDPSlidingWindow\\UDPSlidingWindow.csproj|solutionrelative:udpslidingwindow\\miths\\com\\udpslidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDPSlidingWindow.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\MIT303\\Assignment5\\UDPSlidingWindow\\UDPSlidingWindow\\Miths\\Com\\UDPSlidingWindow.cs",
+              "RelativeDocumentMoniker": "UDPSlidingWindow\\Miths\\Com\\UDPSlidingWindow.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\MIT303\\Assignment5\\UDPSlidingWindow\\UDPSlidingWindow\\Miths\\Com\\UDPSlidingWindow.cs",
+              "RelativeToolTip": "UDPSlidingWindow\\Miths\\Com\\UDPSlidingWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:55:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\MIT303\\Assignment5\\UDPSlidingWindow\\UDPSlidingWindow\\Program.cs",
+              "RelativeDocumentMoniker": "UDPSlidingWindow\\Program.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\MIT303\\Assignment5\\UDPSlidingWindow\\UDPSlidingWindow\\Program.cs",
+              "RelativeToolTip": "UDPSlidingWindow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:54:14.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
