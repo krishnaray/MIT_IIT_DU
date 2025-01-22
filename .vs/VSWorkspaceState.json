@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Network303",
-    "\\Network303\\UDPSlidingWindow"
+    "\\.github",
+    "\\.github\\workflows",
+    "\\MITM310 DSA",
+    "\\MITM310 DSA\\GraphDS",
+    "\\MITM310 DSA\\SortingAlgorithm",
+    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm",
+    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\bin",
+    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj"
   ],
+  "SelectedNode": "\\MITM310 DSA\\GraphDS",
   "PreviewInSolutionExplorer": false
 }

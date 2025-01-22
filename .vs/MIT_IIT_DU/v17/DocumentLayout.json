@@ -1,12 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\krishnaray\\MIT_IIT_DU\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\GitRepos\\MIT_IIT_DU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitRepos\\MIT_IIT_DU\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitRepos\\MIT_IIT_DU\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingAlgorithm.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\GitRepos\\MIT_IIT_DU\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs",
+              "ToolTip": "D:\\GitRepos\\MIT_IIT_DU\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs",
+              "RelativeToolTip": "MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj\\Debug\\net8.0\\SortingAlgorithm.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:47:05.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\GitRepos\\MIT_IIT_DU\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\GitRepos\\MIT_IIT_DU\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T15:29:27.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

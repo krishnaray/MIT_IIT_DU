@@ -58,3 +58,13 @@ dkms.conf
 /.vs/slnx.sqlite
 /.vs/MIT_IIT_DU/FileContentIndex/fd998863-d740-4655-aa23-5fd30d025393.vsidx
 *.vsidx
+Debug/	
+Release/
+/MITM310 DSA/SortingAlgorithm/SortingAlgorithm/obj/Debug/net8.0/SortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/MITM310 DSA/SortingAlgorithm/SortingAlgorithm/obj/Debug/net8.0/SortingAlgorithm.AssemblyInfo.cs
+/MITM310 DSA/GraphDS/.vs/GraphDS/CopilotIndices
+/MITM310 DSA/GraphDS/.vs/GraphDS/DesignTimeBuild
+/MITM310 DSA/GraphDS/.vs/GraphDS/v17
+/MITM310 DSA/GraphDS/.vs/ProjectEvaluation
+/MITM310 DSA/GraphDS/GraphDS/obj
+/MITM310 DSA/GraphDS/GraphDS/bin/Debug/net8.0
