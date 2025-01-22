@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academic\\MIT\\Sem1\\MITM310 DSA\\Code\\BinaryTreeImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A67608B-2AA1-4091-B556-1FDC5D218E05}|BinaryTreeImp\\BinaryTreeImp.csproj|d:\\academic\\mit\\sem1\\mitm310 dsa\\code\\binarytreeimp\\binarytreeimp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A67608B-2AA1-4091-B556-1FDC5D218E05}|BinaryTreeImp\\BinaryTreeImp.csproj|solutionrelative:binarytreeimp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A67608B-2AA1-4091-B556-1FDC5D218E05}|BinaryTreeImp\\BinaryTreeImp.csproj|d:\\academic\\mit\\sem1\\mitm310 dsa\\code\\binarytreeimp\\binarytreeimp\\miths\\datatypes\\tree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A67608B-2AA1-4091-B556-1FDC5D218E05}|BinaryTreeImp\\BinaryTreeImp.csproj|solutionrelative:binarytreeimp\\miths\\datatypes\\tree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\Academic\\MIT\\Sem1\\MITM310 DSA\\Code\\BinaryTreeImp\\BinaryTreeImp\\Miths\\DataTypes\\Tree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTreeImp\\Miths\\DataTypes\\Tree\\BinaryTree.cs",
+              "ToolTip": "D:\\Academic\\MIT\\Sem1\\MITM310 DSA\\Code\\BinaryTreeImp\\BinaryTreeImp\\Miths\\DataTypes\\Tree\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTreeImp\\Miths\\DataTypes\\Tree\\BinaryTree.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwJsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:33:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academic\\MIT\\Sem1\\MITM310 DSA\\Code\\BinaryTreeImp\\BinaryTreeImp\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryTreeImp\\Program.cs",
+              "ToolTip": "D:\\Academic\\MIT\\Sem1\\MITM310 DSA\\Code\\BinaryTreeImp\\BinaryTreeImp\\Program.cs",
+              "RelativeToolTip": "BinaryTreeImp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:32:16.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

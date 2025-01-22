@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UDPSlidingWindow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de40078cdf84ec958608bfc4f53fcd479cf44b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c8c75624d814c8f671cb0606858ae63fe83fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("UDPSlidingWindow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UDPSlidingWindow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
