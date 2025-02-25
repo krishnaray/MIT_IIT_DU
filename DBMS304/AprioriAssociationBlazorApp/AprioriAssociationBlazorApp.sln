@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriAssociationBlazorApp", "AprioriAssociationBlazorApp\AprioriAssociationBlazorApp\AprioriAssociationBlazorApp.csproj", "{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriAssociationBlazorApp.Client", "AprioriAssociationBlazorApp\AprioriAssociationBlazorApp.Client\AprioriAssociationBlazorApp.Client.csproj", "{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B262379B-B430-47AF-8EBC-DE7DD6ECD0CC}
+	EndGlobalSection
+EndGlobal

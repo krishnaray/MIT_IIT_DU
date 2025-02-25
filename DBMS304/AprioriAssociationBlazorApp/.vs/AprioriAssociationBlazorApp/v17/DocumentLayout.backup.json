@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|e:\\mit\\sem1\\dbms\\assignment\\software\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|solutionrelative:aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|e:\\mit\\sem1\\dbms\\assignment\\software\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|solutionrelative:aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|e:\\mit\\sem1\\dbms\\assignment\\software\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA36EFD8-D35E-4B6E-A07C-7B8FD6854098}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.csproj|solutionrelative:aprioriassociationblazorapp\\aprioriassociationblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\AprioriAssociationBlazorApp.Client.csproj|e:\\mit\\sem1\\dbms\\assignment\\software\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\aprioriassociationblazorapp.client\\pages\\apriori.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\AprioriAssociationBlazorApp.Client.csproj|solutionrelative:aprioriassociationblazorapp\\aprioriassociationblazorapp.client\\pages\\apriori.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\AprioriAssociationBlazorApp.Client.csproj|e:\\mit\\sem1\\dbms\\assignment\\software\\aprioriassociationblazorapp\\aprioriassociationblazorapp\\aprioriassociationblazorapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CEF1F9E-6B5B-46F1-A1F9-CF9098433594}|AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\AprioriAssociationBlazorApp.Client.csproj|solutionrelative:aprioriassociationblazorapp\\aprioriassociationblazorapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Routes.razor",
+              "ToolTip": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Routes.razor",
+              "RelativeToolTip": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:18:17.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\App.razor",
+              "ToolTip": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\App.razor",
+              "RelativeToolTip": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:18:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Counter.razor",
+              "ToolTip": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:16:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apriori.razor",
+              "DocumentMoniker": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Apriori.razor",
+              "RelativeDocumentMoniker": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Apriori.razor",
+              "ToolTip": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Apriori.razor",
+              "RelativeToolTip": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp.Client\\Pages\\Apriori.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:16:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\MIT\\Sem1\\DBMS\\Assignment\\Software\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AprioriAssociationBlazorApp\\AprioriAssociationBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:08:57.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

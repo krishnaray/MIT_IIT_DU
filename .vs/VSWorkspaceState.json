@@ -1,15 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
-    "\\MITM310 DSA",
+    "\\DBMS304",
     "\\MITM310 DSA\\GraphDS",
-    "\\MITM310 DSA\\SortingAlgorithm",
-    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm",
-    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\bin",
-    "\\MITM310 DSA\\SortingAlgorithm\\SortingAlgorithm\\obj"
+    "\\MITM310 DSA\\GraphDS\\GraphDS",
+    "\\MITM310 DSA\\GraphDS\\GraphDS\\bin",
+    "\\MITM310 DSA\\GraphDS\\GraphDS\\Miths"
   ],
-  "SelectedNode": "\\MITM310 DSA\\GraphDS",
+  "SelectedNode": "\\DBMS304\\Resources",
   "PreviewInSolutionExplorer": false
 }

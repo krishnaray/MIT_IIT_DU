@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|solutionrelative:ticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi\\context\\db\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|solutionrelative:ticketapi\\context\\db\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi\\ticketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|solutionrelative:ticketapi\\ticketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D006F181-E9D7-4A0A-930F-2828D466371C}|TicketAPI.AppHost\\TicketAPI.AppHost.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi.apphost\\ticketapi.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D006F181-E9D7-4A0A-930F-2828D466371C}|TicketAPI.AppHost\\TicketAPI.AppHost.csproj|solutionrelative:ticketapi.apphost\\ticketapi.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB78F07-AC60-43E4-8794-18848F0DB7A3}|TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi.servicedefaults\\ticketapi.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BB78F07-AC60-43E4-8794-18848F0DB7A3}|TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj|solutionrelative:ticketapi.servicedefaults\\ticketapi.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi\\services\\db\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|solutionrelative:ticketapi\\services\\db\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|f:\\tutorials\\mit\\sem1\\oop\\software\\ticketapi\\ticketapi\\settings\\db\\dbsettingsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE7C745-61B5-4E86-8DED-EFB87A739922}|TicketAPI\\TicketAPI.csproj|solutionrelative:ticketapi\\settings\\db\\dbsettingsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketAPI",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\TicketAPI.csproj",
+              "RelativeDocumentMoniker": "TicketAPI\\TicketAPI.csproj",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\TicketAPI.csproj",
+              "RelativeToolTip": "TicketAPI\\TicketAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T06:03:58.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketAPI.AppHost",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI.AppHost\\TicketAPI.AppHost.csproj",
+              "RelativeDocumentMoniker": "TicketAPI.AppHost\\TicketAPI.AppHost.csproj",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI.AppHost\\TicketAPI.AppHost.csproj",
+              "RelativeToolTip": "TicketAPI.AppHost\\TicketAPI.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T06:03:58.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketAPI.ServiceDefaults",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj",
+              "RelativeToolTip": "TicketAPI.ServiceDefaults\\TicketAPI.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T06:03:58.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Context\\DB\\DataContext.cs",
+              "RelativeDocumentMoniker": "TicketAPI\\Context\\DB\\DataContext.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Context\\DB\\DataContext.cs",
+              "RelativeToolTip": "TicketAPI\\Context\\DB\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:52:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Services\\DB\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "TicketAPI\\Services\\DB\\MongoDBService.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Services\\DB\\MongoDBService.cs",
+              "RelativeToolTip": "TicketAPI\\Services\\DB\\MongoDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:21:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBSettingsBase.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Settings\\DB\\DBSettingsBase.cs",
+              "RelativeDocumentMoniker": "TicketAPI\\Settings\\DB\\DBSettingsBase.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Settings\\DB\\DBSettingsBase.cs",
+              "RelativeToolTip": "TicketAPI\\Settings\\DB\\DBSettingsBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:34:35.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TicketAPI\\Program.cs",
+              "ToolTip": "F:\\Tutorials\\MIT\\Sem1\\OOP\\Software\\TicketAPI\\TicketAPI\\Program.cs",
+              "RelativeToolTip": "TicketAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:06:46.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
